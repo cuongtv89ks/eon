@@ -17,8 +17,24 @@
   "license": "ISC",
   "packageManager": "pnpm@10.12.4",
   "devDependencies": {
-    "nx": "^19.5.3",
-    "@nrwl/tao": "19.8.14",
+    "@nrwl/tao": "19.8.4",
+    "@nx/js": "^21.4.0",
+    "@nx/webpack": "^21.4.0",
+    "@types/node": "^24.3.0",
+    "@types/react": "^19.1.10",
+    "@types/react-dom": "^19.1.7",
+    "html-webpack-plugin": "^5.6.4",
+    "nx": "^21.4.0",
+    "ts-loader": "^9.5.2",
     "typescript": "^5.5.4"
+  },
+  "dependencies": {
+    "@nestjs/common": "^11.1.6",
+    "@nestjs/core": "^11.1.6",
+    "@nestjs/platform-express": "^11.1.6",
+    "class-validator": "^0.14.2",
+    "react": "^19.1.1",
+    "react-dom": "^19.1.1",
+    "tslib": "^2.8.1"
   }
 }

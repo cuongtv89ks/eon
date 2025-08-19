@@ -1,0 +1,130 @@
+{
+  "apps/services/auth-service": {
+    "root": [
+      "apps/services/auth-service/project.json",
+      "nx/core/project-json"
+    ],
+    "name": [
+      "apps/services/auth-service/project.json",
+      "nx/core/project-json"
+    ],
+    "$schema": [
+      "apps/services/auth-service/project.json",
+      "nx/core/project-json"
+    ],
+    "sourceRoot": [
+      "apps/services/auth-service/project.json",
+      "nx/core/project-json"
+    ],
+    "projectType": [
+      "apps/services/auth-service/project.json",
+      "nx/core/project-json"
+    ],
+    "targets": [
+      "apps/services/auth-service/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.serve": [
+      "apps/services/auth-service/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.serve.executor": [
+      "apps/services/auth-service/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.serve.options": [
+      "apps/services/auth-service/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.serve.options.buildTarget": [
+      "apps/services/auth-service/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.build": [
+      "apps/services/auth-service/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.build.executor": [
+      "apps/services/auth-service/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.build.options": [
+      "apps/services/auth-service/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.build.options.outputPath": [
+      "apps/services/auth-service/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.build.options.main": [
+      "apps/services/auth-service/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.build.options.tsConfig": [
+      "apps/services/auth-service/project.json",
+      "nx/core/project-json"
+    ]
+  },
+  "apps/web": {
+    "root": [
+      "apps/web/project.json",
+      "nx/core/project-json"
+    ],
+    "name": [
+      "apps/web/project.json",
+      "nx/core/project-json"
+    ],
+    "$schema": [
+      "apps/web/project.json",
+      "nx/core/project-json"
+    ],
+    "sourceRoot": [
+      "apps/web/project.json",
+      "nx/core/project-json"
+    ],
+    "projectType": [
+      "apps/web/project.json",
+      "nx/core/project-json"
+    ],
+    "targets": [
+      "apps/web/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.build": [
+      "apps/web/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.build.executor": [
+      "apps/web/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.build.options": [
+      "apps/web/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.build.options.outputPath": [
+      "apps/web/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.build.options.webpackConfig": [
+      "apps/web/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.serve": [
+      "apps/web/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.serve.executor": [
+      "apps/web/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.serve.options": [
+      "apps/web/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.serve.options.buildTarget": [
+      "apps/web/project.json",
+      "nx/core/project-json"
+    ]
+  }
+}

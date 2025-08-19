@@ -6,6 +6,7 @@
     "libsDir": "packages"
   },
   "projects": {
-    "auth-service": "apps/services/auth-service"
+    "auth-service": "apps/services/auth-service",
+    "web": "apps/web"
   }
 }
