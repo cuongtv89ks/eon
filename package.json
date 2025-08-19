@@ -4,13 +4,13 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "dev": "nx run-many --target=serve --all",
-    "dev:web": "nx serve web",
-    "dev:auth-service": "nx serve auth-service",
-    "dev:mobile": "nx run-mobile",
-    "test": "nx run-many --target=test --all",
-    "test:web": "nx test web",
-    "build": "nx run-many --target=build --all"
+    "dev": "pnpm exec nx run-many --target=serve --all",
+    "dev:web": "pnpm exec nx serve web",
+    "dev:auth-service": "pnpm exec nx serve auth-service",
+    "dev:mobile": "pnpm exec nx run-mobile",
+    "test": "pnpm exec nx run-many --target=test --all",
+    "test:web": "pnpm exec nx test web",
+    "build": "pnpm exec nx run-many --target=build --all"
   },
   "keywords": [],
   "author": "",
