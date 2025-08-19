@@ -6,504 +6,8 @@
   "fileMap": {
     "nonProjectFiles": [
       {
-        "file": ".bmad-core/checklists/architect-checklist.md",
-        "hash": "14052001435505590672"
-      },
-      {
-        "file": ".bmad-core/templates/qa-gate-tmpl.yaml",
-        "hash": "5032228199834104323"
-      },
-      {
-        "file": ".bmad-core/tasks/brownfield-create-epic.md",
-        "hash": "17722509943214226637"
-      },
-      {
-        "file": ".gemini/bmad-method/GEMINI.md",
-        "hash": "15535031808073371192"
-      },
-      {
-        "file": "expansion-packs/bmad-creative-writing/teams/agent-team.txt",
-        "hash": "11323574627945228695"
-      },
-      {
-        "file": "tsconfig.base.json",
-        "hash": "13764579356942508234"
-      },
-      {
-        "file": "expansion-packs/bmad-creative-writing/agents/plot-architect.txt",
-        "hash": "6798818413890974236"
-      },
-      {
-        "file": "expansion-packs/bmad-creative-writing/agents/character-psychologist.txt",
-        "hash": "13953434174156304768"
-      },
-      {
-        "file": ".bmad-core/templates/brownfield-prd-tmpl.yaml",
-        "hash": "16106893046799324534"
-      },
-      {
-        "file": "teams/team-ide-minimal.txt",
-        "hash": "9443287704684236489"
-      },
-      {
-        "file": ".bmad-core/tasks/document-project.md",
-        "hash": "16829585861047456738"
-      },
-      {
-        "file": ".bmad-core/tasks/test-design.md",
-        "hash": "2304710961871183933"
-      },
-      {
-        "file": ".bmad-core/working-in-the-brownfield.md",
-        "hash": "5004822830586313054"
-      },
-      {
-        "file": ".bmad-core/agents/po.md",
-        "hash": "8851770653998190837"
-      },
-      {
-        "file": "packages/config/index.ts",
-        "hash": "8129343135425930591"
-      },
-      {
-        "file": "expansion-packs/bmad-creative-writing/agents/beta-reader.txt",
-        "hash": "9502173155280830924"
-      },
-      {
-        "file": "expansion-packs/bmad-2d-unity-game-dev/agents/game-sm.txt",
-        "hash": "16476065209175785234"
-      },
-      {
-        "file": "expansion-packs/bmad-2d-unity-game-dev/agents/game-designer.txt",
-        "hash": "11823044515849839887"
-      },
-      {
-        "file": ".bmad-core/templates/story-tmpl.yaml",
-        "hash": "15171322978040264844"
-      },
-      {
-        "file": ".bmad-core/tasks/facilitate-brainstorming-session.md",
-        "hash": "9665448405025885295"
-      },
-      {
-        "file": ".bmad-core/agents/bmad-master.md",
-        "hash": "7361531381728722991"
-      },
-      {
-        "file": "agents/bmad-master.txt",
-        "hash": "3393051844558885165"
-      },
-      {
-        "file": ".bmad-core/data/bmad-kb.md",
-        "hash": "16014869418473588358"
-      },
-      {
-        "file": "agents/pm.txt",
-        "hash": "5603109237722309200"
-      },
-      {
-        "file": "apps/services/onboarding-service/index.ts",
-        "hash": "8714311991482000421"
-      },
-      {
-        "file": "expansion-packs/bmad-infrastructure-devops/agents/infra-devops-platform.txt",
-        "hash": "14628322214362409902"
-      },
-      {
-        "file": ".bmad-core/tasks/kb-mode-interaction.md",
-        "hash": "13978056826441633185"
-      },
-      {
-        "file": "expansion-packs/bmad-2d-unity-game-dev/agents/game-developer.txt",
-        "hash": "14916061878716510784"
-      },
-      {
-        "file": "agents/analyst.txt",
-        "hash": "8180656395247844930"
-      },
-      {
-        "file": ".bmad-core/agents/pm.md",
-        "hash": "9539110535577208755"
-      },
-      {
-        "file": ".bmad-core/workflows/greenfield-ui.yaml",
-        "hash": "18231925349352375034"
-      },
-      {
-        "file": "agents/po.txt",
-        "hash": "10789319580784975102"
-      },
-      {
-        "file": ".bmad-core/workflows/brownfield-fullstack.yaml",
-        "hash": "1169451912579592341"
-      },
-      {
-        "file": ".bmad-core/agents/qa.md",
-        "hash": "13669171477729108699"
-      },
-      {
-        "file": ".bmad-core/agents/architect.md",
-        "hash": "13123300797989859603"
-      },
-      {
-        "file": "agents/architect.txt",
-        "hash": "7349309447572664920"
-      },
-      {
-        "file": "docs/brief.md",
-        "hash": "16277466522804967615"
-      },
-      {
-        "file": "agents/dev.txt",
-        "hash": "5086954338352193409"
-      },
-      {
-        "file": "apps/services/notification-service/index.ts",
-        "hash": "14565443100713454229"
-      },
-      {
-        "file": ".bmad-core/tasks/trace-requirements.md",
-        "hash": "11626966852452511"
-      },
-      {
         "file": ".bmad-core/agent-teams/team-all.yaml",
         "hash": "2971958200919333608"
-      },
-      {
-        "file": ".bmad-core/core-config.yaml",
-        "hash": "5727587627783328078"
-      },
-      {
-        "file": "expansion-packs/bmad-creative-writing/agents/editor.txt",
-        "hash": "557838945775588151"
-      },
-      {
-        "file": ".bmad-core/checklists/po-master-checklist.md",
-        "hash": "12315020357656091311"
-      },
-      {
-        "file": "answer.md",
-        "hash": "10652352788106730626"
-      },
-      {
-        "file": "expansion-packs/bmad-creative-writing/agents/cover-designer.txt",
-        "hash": "7958468840724613667"
-      },
-      {
-        "file": ".bmad-core/agent-teams/team-no-ui.yaml",
-        "hash": "6289331546812925120"
-      },
-      {
-        "file": ".bmad-core/tasks/qa-gate.md",
-        "hash": "3809741082882069546"
-      },
-      {
-        "file": ".bmad-core/data/technical-preferences.md",
-        "hash": "4399453671753393601"
-      },
-      {
-        "file": ".bmad-core/checklists/pm-checklist.md",
-        "hash": "17302976348532098522"
-      },
-      {
-        "file": ".bmad-core/checklists/story-draft-checklist.md",
-        "hash": "8788312908940239215"
-      },
-      {
-        "file": "expansion-packs/bmad-2d-phaser-game-dev/agents/game-designer.txt",
-        "hash": "7672747623986940051"
-      },
-      {
-        "file": "apps/services/document-service/index.ts",
-        "hash": "15340936352774372572"
-      },
-      {
-        "file": "expansion-packs/bmad-2d-phaser-game-dev/agents/game-developer.txt",
-        "hash": "17937150107796512092"
-      },
-      {
-        "file": "agents/bmad-orchestrator.txt",
-        "hash": "12660260244370569420"
-      },
-      {
-        "file": "expansion-packs/bmad-2d-phaser-game-dev/teams/phaser-2d-nodejs-game-team.txt",
-        "hash": "1109837203990772436"
-      },
-      {
-        "file": ".bmad-core/tasks/nfr-assess.md",
-        "hash": "12911642692408856789"
-      },
-      {
-        "file": ".bmad-core/data/test-levels-framework.md",
-        "hash": "3605429745256946922"
-      },
-      {
-        "file": "expansion-packs/bmad-creative-writing/agents/narrative-designer.txt",
-        "hash": "80759758695414854"
-      },
-      {
-        "file": ".bmad-core/utils/bmad-doc-template.md",
-        "hash": "9844292088107073828"
-      },
-      {
-        "file": ".bmad-core/workflows/brownfield-service.yaml",
-        "hash": "5341521561689861534"
-      },
-      {
-        "file": "expansion-packs/bmad-2d-unity-game-dev/agents/game-architect.txt",
-        "hash": "14066647507182894794"
-      },
-      {
-        "file": ".bmad-core/templates/market-research-tmpl.yaml",
-        "hash": "15479261070692564612"
-      },
-      {
-        "file": "expansion-packs/bmad-creative-writing/agents/world-builder.txt",
-        "hash": "3163687097274091435"
-      },
-      {
-        "file": ".bmad-core/tasks/create-brownfield-story.md",
-        "hash": "3954299640074267310"
-      },
-      {
-        "file": "teams/team-all.txt",
-        "hash": "12019588040331639961"
-      },
-      {
-        "file": "apps/mobile/App.tsx",
-        "hash": "2524225981716903842"
-      },
-      {
-        "file": ".bmad-core/data/elicitation-methods.md",
-        "hash": "15605461401280791111"
-      },
-      {
-        "file": ".bmad-core/tasks/advanced-elicitation.md",
-        "hash": "14381538087709545384"
-      },
-      {
-        "file": ".bmad-core/tasks/brownfield-create-story.md",
-        "hash": "1023390254117299547"
-      },
-      {
-        "file": ".bmad-core/agents/dev.md",
-        "hash": "321044095611181088"
-      },
-      {
-        "file": ".bmad-core/tasks/validate-next-story.md",
-        "hash": "1239719158512239098"
-      },
-      {
-        "file": ".bmad-core/templates/front-end-spec-tmpl.yaml",
-        "hash": "14332138149646391341"
-      },
-      {
-        "file": ".bmad-core/enhanced-ide-development-workflow.md",
-        "hash": "2266648761935650094"
-      },
-      {
-        "file": ".bmad-core/tasks/generate-ai-frontend-prompt.md",
-        "hash": "13636681749595012551"
-      },
-      {
-        "file": ".bmad-core/workflows/greenfield-fullstack.yaml",
-        "hash": "807243400789790421"
-      },
-      {
-        "file": "agents/qa.txt",
-        "hash": "12388817869987856119"
-      },
-      {
-        "file": "fpt-logo.png",
-        "hash": "13200853112684286389"
-      },
-      {
-        "file": ".bmad-core/data/brainstorming-techniques.md",
-        "hash": "1418534463682102778"
-      },
-      {
-        "file": ".bmad-core/templates/architecture-tmpl.yaml",
-        "hash": "9596237734933701620"
-      },
-      {
-        "file": "nx.json",
-        "hash": "7966542045247359336"
-      },
-      {
-        "file": ".bmad-core/tasks/create-doc.md",
-        "hash": "7686790477398912955"
-      },
-      {
-        "file": ".bmad-core/templates/brownfield-architecture-tmpl.yaml",
-        "hash": "14938504769624368852"
-      },
-      {
-        "file": ".bmad-core/tasks/review-story.md",
-        "hash": "8162582415048488733"
-      },
-      {
-        "file": ".bmad-core/templates/brainstorming-output-tmpl.yaml",
-        "hash": "9798376833280625598"
-      },
-      {
-        "file": ".bmad-core/agents/sm.md",
-        "hash": "16961584545082172442"
-      },
-      {
-        "file": "homework-w1.md",
-        "hash": "18276634635800415048"
-      },
-      {
-        "file": "packages/types/index.ts",
-        "hash": "6599236726437560351"
-      },
-      {
-        "file": ".bmad-core/templates/fullstack-architecture-tmpl.yaml",
-        "hash": "18319055037919200792"
-      },
-      {
-        "file": "teams/team-fullstack.txt",
-        "hash": "11106719293565910566"
-      },
-      {
-        "file": ".bmad-core/agents/bmad-orchestrator.md",
-        "hash": "8439153459696759613"
-      },
-      {
-        "file": ".bmad-core/tasks/index-docs.md",
-        "hash": "18070195911390452031"
-      },
-      {
-        "file": ".bmad-core/templates/competitor-analysis-tmpl.yaml",
-        "hash": "5968858274011840679"
-      },
-      {
-        "file": ".bmad-core/checklists/change-checklist.md",
-        "hash": "1380847898936957564"
-      },
-      {
-        "file": "tmp/apps/services/auth-service/serve/tsconfig.generated.3a344f16-8c55-4447-abfa-668e3f89488f.json",
-        "hash": "15424457154078136462"
-      },
-      {
-        "file": ".bmad-core/agents/analyst.md",
-        "hash": "2064670021469135419"
-      },
-      {
-        "file": ".bmad-core/checklists/story-dod-checklist.md",
-        "hash": "3987048084319882983"
-      },
-      {
-        "file": ".bmad-core/templates/project-brief-tmpl.yaml",
-        "hash": "7663848406132956559"
-      },
-      {
-        "file": ".bmad-core/templates/prd-tmpl.yaml",
-        "hash": "3254442131357984946"
-      },
-      {
-        "file": "expansion-packs/bmad-creative-writing/agents/genre-specialist.txt",
-        "hash": "1935419143540768063"
-      },
-      {
-        "file": "docs/front-end-spec.md",
-        "hash": "1465270269715553829"
-      },
-      {
-        "file": "expansion-packs/bmad-creative-writing/agents/dialog-specialist.txt",
-        "hash": "5668014987796875064"
-      },
-      {
-        "file": ".bmad-core/agents/ux-expert.md",
-        "hash": "1238539440204283041"
-      },
-      {
-        "file": ".bmad-core/data/test-priorities-matrix.md",
-        "hash": "8478210649283752463"
-      },
-      {
-        "file": ".bmad-core/user-guide.md",
-        "hash": "3755715020760101842"
-      },
-      {
-        "file": ".bmad-core/workflows/greenfield-service.yaml",
-        "hash": "9559097845116255146"
-      },
-      {
-        "file": ".github/workflows/ci.yaml",
-        "hash": "9984182627077232230"
-      },
-      {
-        "file": "expansion-packs/bmad-creative-writing/agents/book-critic.txt",
-        "hash": "17428100694904714713"
-      },
-      {
-        "file": "agents/ux-expert.txt",
-        "hash": "17105676520147371944"
-      },
-      {
-        "file": ".bmad-core/tasks/shard-doc.md",
-        "hash": "7787333794764204726"
-      },
-      {
-        "file": "docs/architecture.md",
-        "hash": "18252473728773233905"
-      },
-      {
-        "file": "teams/team-no-ui.txt",
-        "hash": "16535605980448554099"
-      },
-      {
-        "file": ".gitignore",
-        "hash": "12883774704754785886"
-      },
-      {
-        "file": ".bmad-core/tasks/apply-qa-fixes.md",
-        "hash": "10810779362880301128"
-      },
-      {
-        "file": ".bmad-core/templates/front-end-architecture-tmpl.yaml",
-        "hash": "449868366256635915"
-      },
-      {
-        "file": "packages/ui/index.ts",
-        "hash": "2976673278664145870"
-      },
-      {
-        "file": ".bmad-core/tasks/risk-profile.md",
-        "hash": "5844183534202638844"
-      },
-      {
-        "file": ".bmad-core/install-manifest.yaml",
-        "hash": "3678266729314939077"
-      },
-      {
-        "file": ".bmad-core/tasks/create-next-story.md",
-        "hash": "17415415344923949224"
-      },
-      {
-        "file": ".bmad-core/workflows/brownfield-ui.yaml",
-        "hash": "18228205608539338485"
-      },
-      {
-        "file": ".bmad-core/utils/workflow-management.md",
-        "hash": "8696163925233748733"
-      },
-      {
-        "file": "expansion-packs/bmad-2d-unity-game-dev/teams/unity-2d-game-team.txt",
-        "hash": "11408745734879685637"
-      },
-      {
-        "file": "docs/prd.md",
-        "hash": "13283477590208907824"
-      },
-      {
-        "file": ".bmad-core/tasks/execute-checklist.md",
-        "hash": "15725501461157686623"
-      },
-      {
-        "file": "expansion-packs/bmad-2d-phaser-game-dev/agents/game-sm.txt",
-        "hash": "1847812007844025324"
       },
       {
         "file": ".bmad-core/agent-teams/team-fullstack.yaml",
@@ -514,27 +18,779 @@
         "hash": "4063856261287734032"
       },
       {
+        "file": ".bmad-core/agent-teams/team-no-ui.yaml",
+        "hash": "6289331546812925120"
+      },
+      {
+        "file": ".bmad-core/agents/analyst.md",
+        "hash": "2064670021469135419"
+      },
+      {
+        "file": ".bmad-core/agents/architect.md",
+        "hash": "13123300797989859603"
+      },
+      {
+        "file": ".bmad-core/agents/bmad-master.md",
+        "hash": "7361531381728722991"
+      },
+      {
+        "file": ".bmad-core/agents/bmad-orchestrator.md",
+        "hash": "8439153459696759613"
+      },
+      {
+        "file": ".bmad-core/agents/dev.md",
+        "hash": "321044095611181088"
+      },
+      {
+        "file": ".bmad-core/agents/pm.md",
+        "hash": "9539110535577208755"
+      },
+      {
+        "file": ".bmad-core/agents/po.md",
+        "hash": "8851770653998190837"
+      },
+      {
+        "file": ".bmad-core/agents/qa.md",
+        "hash": "13669171477729108699"
+      },
+      {
+        "file": ".bmad-core/agents/sm.md",
+        "hash": "16961584545082172442"
+      },
+      {
+        "file": ".bmad-core/agents/ux-expert.md",
+        "hash": "1238539440204283041"
+      },
+      {
+        "file": ".bmad-core/checklists/architect-checklist.md",
+        "hash": "14052001435505590672"
+      },
+      {
+        "file": ".bmad-core/checklists/change-checklist.md",
+        "hash": "1380847898936957564"
+      },
+      {
+        "file": ".bmad-core/checklists/pm-checklist.md",
+        "hash": "17302976348532098522"
+      },
+      {
+        "file": ".bmad-core/checklists/po-master-checklist.md",
+        "hash": "12315020357656091311"
+      },
+      {
+        "file": ".bmad-core/checklists/story-dod-checklist.md",
+        "hash": "3987048084319882983"
+      },
+      {
+        "file": ".bmad-core/checklists/story-draft-checklist.md",
+        "hash": "8788312908940239215"
+      },
+      {
+        "file": ".bmad-core/core-config.yaml",
+        "hash": "5727587627783328078"
+      },
+      {
+        "file": ".bmad-core/data/bmad-kb.md",
+        "hash": "16014869418473588358"
+      },
+      {
+        "file": ".bmad-core/data/brainstorming-techniques.md",
+        "hash": "1418534463682102778"
+      },
+      {
+        "file": ".bmad-core/data/elicitation-methods.md",
+        "hash": "15605461401280791111"
+      },
+      {
+        "file": ".bmad-core/data/technical-preferences.md",
+        "hash": "4399453671753393601"
+      },
+      {
+        "file": ".bmad-core/data/test-levels-framework.md",
+        "hash": "3605429745256946922"
+      },
+      {
+        "file": ".bmad-core/data/test-priorities-matrix.md",
+        "hash": "8478210649283752463"
+      },
+      {
+        "file": ".bmad-core/enhanced-ide-development-workflow.md",
+        "hash": "2266648761935650094"
+      },
+      {
+        "file": ".bmad-core/install-manifest.yaml",
+        "hash": "3678266729314939077"
+      },
+      {
+        "file": ".bmad-core/tasks/advanced-elicitation.md",
+        "hash": "14381538087709545384"
+      },
+      {
+        "file": ".bmad-core/tasks/apply-qa-fixes.md",
+        "hash": "10810779362880301128"
+      },
+      {
+        "file": ".bmad-core/tasks/brownfield-create-epic.md",
+        "hash": "17722509943214226637"
+      },
+      {
+        "file": ".bmad-core/tasks/brownfield-create-story.md",
+        "hash": "1023390254117299547"
+      },
+      {
         "file": ".bmad-core/tasks/correct-course.md",
         "hash": "9754236614427971019"
+      },
+      {
+        "file": ".bmad-core/tasks/create-brownfield-story.md",
+        "hash": "3954299640074267310"
       },
       {
         "file": ".bmad-core/tasks/create-deep-research-prompt.md",
         "hash": "7231238390143577211"
       },
       {
-        "file": "package.json",
-        "hash": "9773186634900448551"
+        "file": ".bmad-core/tasks/create-doc.md",
+        "hash": "7686790477398912955"
       },
       {
-        "file": "pnpm-lock.yaml",
-        "hash": "16786184373526632854"
+        "file": ".bmad-core/tasks/create-next-story.md",
+        "hash": "17415415344923949224"
+      },
+      {
+        "file": ".bmad-core/tasks/document-project.md",
+        "hash": "16829585861047456738"
+      },
+      {
+        "file": ".bmad-core/tasks/execute-checklist.md",
+        "hash": "15725501461157686623"
+      },
+      {
+        "file": ".bmad-core/tasks/facilitate-brainstorming-session.md",
+        "hash": "9665448405025885295"
+      },
+      {
+        "file": ".bmad-core/tasks/generate-ai-frontend-prompt.md",
+        "hash": "13636681749595012551"
+      },
+      {
+        "file": ".bmad-core/tasks/index-docs.md",
+        "hash": "18070195911390452031"
+      },
+      {
+        "file": ".bmad-core/tasks/kb-mode-interaction.md",
+        "hash": "13978056826441633185"
+      },
+      {
+        "file": ".bmad-core/tasks/nfr-assess.md",
+        "hash": "12911642692408856789"
+      },
+      {
+        "file": ".bmad-core/tasks/qa-gate.md",
+        "hash": "3809741082882069546"
+      },
+      {
+        "file": ".bmad-core/tasks/review-story.md",
+        "hash": "8162582415048488733"
+      },
+      {
+        "file": ".bmad-core/tasks/risk-profile.md",
+        "hash": "5844183534202638844"
+      },
+      {
+        "file": ".bmad-core/tasks/shard-doc.md",
+        "hash": "7787333794764204726"
+      },
+      {
+        "file": ".bmad-core/tasks/test-design.md",
+        "hash": "2304710961871183933"
+      },
+      {
+        "file": ".bmad-core/tasks/trace-requirements.md",
+        "hash": "11626966852452511"
+      },
+      {
+        "file": ".bmad-core/tasks/validate-next-story.md",
+        "hash": "1239719158512239098"
+      },
+      {
+        "file": ".bmad-core/templates/architecture-tmpl.yaml",
+        "hash": "9596237734933701620"
+      },
+      {
+        "file": ".bmad-core/templates/brainstorming-output-tmpl.yaml",
+        "hash": "9798376833280625598"
+      },
+      {
+        "file": ".bmad-core/templates/brownfield-architecture-tmpl.yaml",
+        "hash": "14938504769624368852"
+      },
+      {
+        "file": ".bmad-core/templates/brownfield-prd-tmpl.yaml",
+        "hash": "16106893046799324534"
+      },
+      {
+        "file": ".bmad-core/templates/competitor-analysis-tmpl.yaml",
+        "hash": "5968858274011840679"
+      },
+      {
+        "file": ".bmad-core/templates/front-end-architecture-tmpl.yaml",
+        "hash": "449868366256635915"
+      },
+      {
+        "file": ".bmad-core/templates/front-end-spec-tmpl.yaml",
+        "hash": "14332138149646391341"
+      },
+      {
+        "file": ".bmad-core/templates/fullstack-architecture-tmpl.yaml",
+        "hash": "18319055037919200792"
+      },
+      {
+        "file": ".bmad-core/templates/market-research-tmpl.yaml",
+        "hash": "15479261070692564612"
+      },
+      {
+        "file": ".bmad-core/templates/prd-tmpl.yaml",
+        "hash": "3254442131357984946"
+      },
+      {
+        "file": ".bmad-core/templates/project-brief-tmpl.yaml",
+        "hash": "7663848406132956559"
+      },
+      {
+        "file": ".bmad-core/templates/qa-gate-tmpl.yaml",
+        "hash": "5032228199834104323"
+      },
+      {
+        "file": ".bmad-core/templates/story-tmpl.yaml",
+        "hash": "15171322978040264844"
+      },
+      {
+        "file": ".bmad-core/user-guide.md",
+        "hash": "3755715020760101842"
+      },
+      {
+        "file": ".bmad-core/utils/bmad-doc-template.md",
+        "hash": "9844292088107073828"
+      },
+      {
+        "file": ".bmad-core/utils/workflow-management.md",
+        "hash": "8696163925233748733"
+      },
+      {
+        "file": ".bmad-core/workflows/brownfield-fullstack.yaml",
+        "hash": "1169451912579592341"
+      },
+      {
+        "file": ".bmad-core/workflows/brownfield-service.yaml",
+        "hash": "5341521561689861534"
+      },
+      {
+        "file": ".bmad-core/workflows/brownfield-ui.yaml",
+        "hash": "18228205608539338485"
+      },
+      {
+        "file": ".bmad-core/workflows/greenfield-fullstack.yaml",
+        "hash": "807243400789790421"
+      },
+      {
+        "file": ".bmad-core/workflows/greenfield-service.yaml",
+        "hash": "9559097845116255146"
+      },
+      {
+        "file": ".bmad-core/workflows/greenfield-ui.yaml",
+        "hash": "18231925349352375034"
+      },
+      {
+        "file": ".bmad-core/working-in-the-brownfield.md",
+        "hash": "5004822830586313054"
+      },
+      {
+        "file": ".gemini/bmad-method/GEMINI.md",
+        "hash": "15535031808073371192"
+      },
+      {
+        "file": ".github/workflows/ci.yaml",
+        "hash": "9984182627077232230"
+      },
+      {
+        "file": ".gitignore",
+        "hash": "12883774704754785886"
+      },
+      {
+        "file": "App.tsx.bak",
+        "hash": "2524225981716903842"
+      },
+      {
+        "file": "agents/analyst.txt",
+        "hash": "8180656395247844930"
+      },
+      {
+        "file": "agents/architect.txt",
+        "hash": "7349309447572664920"
+      },
+      {
+        "file": "agents/bmad-master.txt",
+        "hash": "3393051844558885165"
+      },
+      {
+        "file": "agents/bmad-orchestrator.txt",
+        "hash": "12660260244370569420"
+      },
+      {
+        "file": "agents/dev.txt",
+        "hash": "5086954338352193409"
+      },
+      {
+        "file": "agents/pm.txt",
+        "hash": "5603109237722309200"
+      },
+      {
+        "file": "agents/po.txt",
+        "hash": "10789319580784975102"
+      },
+      {
+        "file": "agents/qa.txt",
+        "hash": "12388817869987856119"
       },
       {
         "file": "agents/sm.txt",
         "hash": "14772729451111333861"
+      },
+      {
+        "file": "agents/ux-expert.txt",
+        "hash": "17105676520147371944"
+      },
+      {
+        "file": "answer.md",
+        "hash": "10652352788106730626"
+      },
+      {
+        "file": "apps/services/document-service/index.ts",
+        "hash": "15340936352774372572"
+      },
+      {
+        "file": "apps/services/notification-service/index.ts",
+        "hash": "14565443100713454229"
+      },
+      {
+        "file": "apps/services/onboarding-service/index.ts",
+        "hash": "8714311991482000421"
+      },
+      {
+        "file": "docs/architecture.md",
+        "hash": "18252473728773233905"
+      },
+      {
+        "file": "docs/brief.md",
+        "hash": "16277466522804967615"
+      },
+      {
+        "file": "docs/front-end-spec.md",
+        "hash": "1465270269715553829"
+      },
+      {
+        "file": "docs/prd.md",
+        "hash": "13283477590208907824"
+      },
+      {
+        "file": "expansion-packs/bmad-2d-phaser-game-dev/agents/game-designer.txt",
+        "hash": "7672747623986940051"
+      },
+      {
+        "file": "expansion-packs/bmad-2d-phaser-game-dev/agents/game-developer.txt",
+        "hash": "17937150107796512092"
+      },
+      {
+        "file": "expansion-packs/bmad-2d-phaser-game-dev/agents/game-sm.txt",
+        "hash": "1847812007844025324"
+      },
+      {
+        "file": "expansion-packs/bmad-2d-phaser-game-dev/teams/phaser-2d-nodejs-game-team.txt",
+        "hash": "1109837203990772436"
+      },
+      {
+        "file": "expansion-packs/bmad-2d-unity-game-dev/agents/game-architect.txt",
+        "hash": "14066647507182894794"
+      },
+      {
+        "file": "expansion-packs/bmad-2d-unity-game-dev/agents/game-designer.txt",
+        "hash": "11823044515849839887"
+      },
+      {
+        "file": "expansion-packs/bmad-2d-unity-game-dev/agents/game-developer.txt",
+        "hash": "14916061878716510784"
+      },
+      {
+        "file": "expansion-packs/bmad-2d-unity-game-dev/agents/game-sm.txt",
+        "hash": "16476065209175785234"
+      },
+      {
+        "file": "expansion-packs/bmad-2d-unity-game-dev/teams/unity-2d-game-team.txt",
+        "hash": "11408745734879685637"
+      },
+      {
+        "file": "expansion-packs/bmad-creative-writing/agents/beta-reader.txt",
+        "hash": "9502173155280830924"
+      },
+      {
+        "file": "expansion-packs/bmad-creative-writing/agents/book-critic.txt",
+        "hash": "17428100694904714713"
+      },
+      {
+        "file": "expansion-packs/bmad-creative-writing/agents/character-psychologist.txt",
+        "hash": "13953434174156304768"
+      },
+      {
+        "file": "expansion-packs/bmad-creative-writing/agents/cover-designer.txt",
+        "hash": "7958468840724613667"
+      },
+      {
+        "file": "expansion-packs/bmad-creative-writing/agents/dialog-specialist.txt",
+        "hash": "5668014987796875064"
+      },
+      {
+        "file": "expansion-packs/bmad-creative-writing/agents/editor.txt",
+        "hash": "557838945775588151"
+      },
+      {
+        "file": "expansion-packs/bmad-creative-writing/agents/genre-specialist.txt",
+        "hash": "1935419143540768063"
+      },
+      {
+        "file": "expansion-packs/bmad-creative-writing/agents/narrative-designer.txt",
+        "hash": "80759758695414854"
+      },
+      {
+        "file": "expansion-packs/bmad-creative-writing/agents/plot-architect.txt",
+        "hash": "6798818413890974236"
+      },
+      {
+        "file": "expansion-packs/bmad-creative-writing/agents/world-builder.txt",
+        "hash": "3163687097274091435"
+      },
+      {
+        "file": "expansion-packs/bmad-creative-writing/teams/agent-team.txt",
+        "hash": "11323574627945228695"
+      },
+      {
+        "file": "expansion-packs/bmad-infrastructure-devops/agents/infra-devops-platform.txt",
+        "hash": "14628322214362409902"
+      },
+      {
+        "file": "fpt-logo.png",
+        "hash": "13200853112684286389"
+      },
+      {
+        "file": "homework-w1.md",
+        "hash": "18276634635800415048"
+      },
+      {
+        "file": "nx.json",
+        "hash": "4717979372264026471"
+      },
+      {
+        "file": "package.json",
+        "hash": "15835131642175201531"
+      },
+      {
+        "file": "packages/config/index.ts",
+        "hash": "8129343135425930591"
+      },
+      {
+        "file": "packages/types/index.ts",
+        "hash": "6599236726437560351"
+      },
+      {
+        "file": "packages/ui/index.ts",
+        "hash": "2976673278664145870"
+      },
+      {
+        "file": "pnpm-lock.yaml",
+        "hash": "1161416469295485143"
+      },
+      {
+        "file": "teams/team-all.txt",
+        "hash": "12019588040331639961"
+      },
+      {
+        "file": "teams/team-fullstack.txt",
+        "hash": "11106719293565910566"
+      },
+      {
+        "file": "teams/team-ide-minimal.txt",
+        "hash": "9443287704684236489"
+      },
+      {
+        "file": "teams/team-no-ui.txt",
+        "hash": "16535605980448554099"
+      },
+      {
+        "file": "tsconfig.base.json",
+        "hash": "13764579356942508234"
       }
     ],
     "projectFileMap": {
+      "mobile": [
+        {
+          "file": "apps/mobile/.bundle/config",
+          "hash": "9116505824108018199"
+        },
+        {
+          "file": "apps/mobile/.eslintrc.js",
+          "hash": "17354359792012622799"
+        },
+        {
+          "file": "apps/mobile/.gitignore",
+          "hash": "5050593768160088275"
+        },
+        {
+          "file": "apps/mobile/.prettierrc.js",
+          "hash": "5023573646155516009"
+        },
+        {
+          "file": "apps/mobile/.watchmanconfig",
+          "hash": "15753941481085060538"
+        },
+        {
+          "file": "apps/mobile/App.tsx",
+          "hash": "16192891092219800552",
+          "deps": [
+            "npm:react-native"
+          ]
+        },
+        {
+          "file": "apps/mobile/Gemfile",
+          "hash": "12884890766378124899"
+        },
+        {
+          "file": "apps/mobile/Gemfile.lock",
+          "hash": "13862005555825102804"
+        },
+        {
+          "file": "apps/mobile/README.md",
+          "hash": "10575641548894021443"
+        },
+        {
+          "file": "apps/mobile/__tests__/App.test.tsx",
+          "hash": "10792233639728460309",
+          "deps": [
+            "npm:react"
+          ]
+        },
+        {
+          "file": "apps/mobile/android/app/build.gradle",
+          "hash": "8023321320239068579"
+        },
+        {
+          "file": "apps/mobile/android/app/debug.keystore",
+          "hash": "5037686243849261810"
+        },
+        {
+          "file": "apps/mobile/android/app/proguard-rules.pro",
+          "hash": "13814197385154279786"
+        },
+        {
+          "file": "apps/mobile/android/app/src/debug/AndroidManifest.xml",
+          "hash": "9217300540490017338"
+        },
+        {
+          "file": "apps/mobile/android/app/src/main/AndroidManifest.xml",
+          "hash": "8439592262627536205"
+        },
+        {
+          "file": "apps/mobile/android/app/src/main/java/com/mobile/MainActivity.kt",
+          "hash": "2572090855518206868"
+        },
+        {
+          "file": "apps/mobile/android/app/src/main/java/com/mobile/MainApplication.kt",
+          "hash": "6041337243065327151"
+        },
+        {
+          "file": "apps/mobile/android/app/src/main/res/drawable/rn_edit_text_material.xml",
+          "hash": "4466596183044014152"
+        },
+        {
+          "file": "apps/mobile/android/app/src/main/res/mipmap-hdpi/ic_launcher.png",
+          "hash": "10788509195642110029"
+        },
+        {
+          "file": "apps/mobile/android/app/src/main/res/mipmap-hdpi/ic_launcher_round.png",
+          "hash": "14348562046770238248"
+        },
+        {
+          "file": "apps/mobile/android/app/src/main/res/mipmap-mdpi/ic_launcher.png",
+          "hash": "328692529308011025"
+        },
+        {
+          "file": "apps/mobile/android/app/src/main/res/mipmap-mdpi/ic_launcher_round.png",
+          "hash": "11802043336826859502"
+        },
+        {
+          "file": "apps/mobile/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png",
+          "hash": "13006206334539413900"
+        },
+        {
+          "file": "apps/mobile/android/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png",
+          "hash": "1812825738055967771"
+        },
+        {
+          "file": "apps/mobile/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png",
+          "hash": "6104457872863500683"
+        },
+        {
+          "file": "apps/mobile/android/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png",
+          "hash": "2478168592410677995"
+        },
+        {
+          "file": "apps/mobile/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png",
+          "hash": "12283149652938275290"
+        },
+        {
+          "file": "apps/mobile/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png",
+          "hash": "7126668675123994836"
+        },
+        {
+          "file": "apps/mobile/android/app/src/main/res/values/strings.xml",
+          "hash": "1860120810467147192"
+        },
+        {
+          "file": "apps/mobile/android/app/src/main/res/values/styles.xml",
+          "hash": "14052910750539201041"
+        },
+        {
+          "file": "apps/mobile/android/build.gradle",
+          "hash": "14276478454806160793"
+        },
+        {
+          "file": "apps/mobile/android/gradle.properties",
+          "hash": "9051431235718361316"
+        },
+        {
+          "file": "apps/mobile/android/gradle/wrapper/gradle-wrapper.jar",
+          "hash": "5961704579857758315"
+        },
+        {
+          "file": "apps/mobile/android/gradle/wrapper/gradle-wrapper.properties",
+          "hash": "926483970941658266"
+        },
+        {
+          "file": "apps/mobile/android/gradlew",
+          "hash": "2029539514094064532"
+        },
+        {
+          "file": "apps/mobile/android/gradlew.bat",
+          "hash": "11696202184983665693"
+        },
+        {
+          "file": "apps/mobile/android/settings.gradle",
+          "hash": "7030276774815018433"
+        },
+        {
+          "file": "apps/mobile/app.json",
+          "hash": "14497235267095423814"
+        },
+        {
+          "file": "apps/mobile/babel.config.js",
+          "hash": "17506418141289760001"
+        },
+        {
+          "file": "apps/mobile/index.js",
+          "hash": "13485637918330743112",
+          "deps": [
+            "npm:react-native"
+          ]
+        },
+        {
+          "file": "apps/mobile/ios/.xcode.env",
+          "hash": "2240437479405059044"
+        },
+        {
+          "file": "apps/mobile/ios/Podfile",
+          "hash": "257052200351467111"
+        },
+        {
+          "file": "apps/mobile/ios/Podfile.lock",
+          "hash": "9663840695245884246"
+        },
+        {
+          "file": "apps/mobile/ios/mobile.xcodeproj/project.pbxproj",
+          "hash": "17527797228301308668"
+        },
+        {
+          "file": "apps/mobile/ios/mobile.xcodeproj/xcshareddata/xcschemes/mobile.xcscheme",
+          "hash": "3358258655637718085"
+        },
+        {
+          "file": "apps/mobile/ios/mobile.xcworkspace/contents.xcworkspacedata",
+          "hash": "12737981024004478480"
+        },
+        {
+          "file": "apps/mobile/ios/mobile/AppDelegate.swift",
+          "hash": "7175162658842167195"
+        },
+        {
+          "file": "apps/mobile/ios/mobile/Images.xcassets/AppIcon.appiconset/Contents.json",
+          "hash": "13651775502586994303"
+        },
+        {
+          "file": "apps/mobile/ios/mobile/Images.xcassets/Contents.json",
+          "hash": "10114040536141029740"
+        },
+        {
+          "file": "apps/mobile/ios/mobile/Info.plist",
+          "hash": "6246613170116580931"
+        },
+        {
+          "file": "apps/mobile/ios/mobile/LaunchScreen.storyboard",
+          "hash": "15442517217120284715"
+        },
+        {
+          "file": "apps/mobile/ios/mobile/PrivacyInfo.xcprivacy",
+          "hash": "16670914145149810597"
+        },
+        {
+          "file": "apps/mobile/jest.config.js",
+          "hash": "3450453734004767423"
+        },
+        {
+          "file": "apps/mobile/metro.config.js",
+          "hash": "2535319034288447076",
+          "deps": [
+            "npm:@react-native/metro-config"
+          ]
+        },
+        {
+          "file": "apps/mobile/package-lock.json",
+          "hash": "4436792343882436440"
+        },
+        {
+          "file": "apps/mobile/package.json",
+          "hash": "17150353758111832704",
+          "deps": [
+            "npm:@babel/core",
+            "npm:@babel/preset-env",
+            "npm:@babel/runtime",
+            "npm:@react-native-community/cli",
+            "npm:@react-native-community/cli-platform-android",
+            "npm:@react-native-community/cli-platform-ios",
+            "npm:@react-native/babel-preset",
+            "npm:@react-native/metro-config",
+            "npm:@types/react",
+            "npm:typescript",
+            "npm:react",
+            "npm:react-native"
+          ]
+        },
+        {
+          "file": "apps/mobile/project.json",
+          "hash": "3302087112427752863"
+        },
+        {
+          "file": "apps/mobile/tsconfig.json",
+          "hash": "9202168299441091648"
+        }
+      ],
       "web": [
         {
           "file": "apps/web/index.html",

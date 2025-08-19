@@ -7,7 +7,7 @@
     "dev": "node ./node_modules/nx/bin/nx.js run-many --target=serve --all",
     "dev:web": "node ./node_modules/nx/bin/nx.js serve web",
     "dev:auth-service": "node ./node_modules/nx/bin/nx.js serve auth-service",
-    "dev:mobile": "node ./node_modules/nx/bin/nx.js run-mobile",
+    "dev:mobile": "node ./node_modules/nx/bin/nx.js run mobile:run-ios",
     "test": "node ./node_modules/nx/bin/nx.js run-many --target=test --all",
     "test:web": "node ./node_modules/nx/bin/nx.js test web",
     "build": "node ./node_modules/nx/bin/nx.js run-many --target=build --all"
@@ -26,6 +26,7 @@
     "html-webpack-plugin": "^5.6.4",
     "nx": "^21.4.0",
     "ts-loader": "^9.5.2",
+    "@react-native-community/cli": "latest",
     "typescript": "^5.5.4"
   },
   "dependencies": {
@@ -35,6 +36,7 @@
     "class-validator": "^0.14.2",
     "react": "^19.1.1",
     "react-dom": "^19.1.1",
+    "react-native": "^0.81.0",
     "tslib": "^2.8.1"
   }
 }

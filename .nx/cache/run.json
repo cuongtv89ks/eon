@@ -1,9 +1,21 @@
 {
   "run": {
-    "command": "nx serve web",
-    "startTime": "2025-08-19T04:41:22.338Z",
-    "endTime": "2025-08-19T04:42:38.349Z",
+    "command": "nx run mobile:run-ios",
+    "startTime": "2025-08-19T06:50:33.915Z",
+    "endTime": "2025-08-19T06:52:55.346Z",
     "inner": false
   },
-  "tasks": []
+  "tasks": [
+    {
+      "taskId": "mobile:run-ios",
+      "target": "run-ios",
+      "projectName": "mobile",
+      "hash": "13840631311519293677",
+      "startTime": "2025-08-19T06:50:33.953Z",
+      "endTime": "2025-08-19T06:52:55.284Z",
+      "params": "",
+      "cacheStatus": "cache-miss",
+      "status": 1
+    }
+  ]
 }
