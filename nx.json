@@ -4,5 +4,8 @@
   "workspaceLayout": {
     "appsDir": "apps",
     "libsDir": "packages"
+  },
+  "projects": {
+    "auth-service": "apps/services/auth-service"
   }
 }
