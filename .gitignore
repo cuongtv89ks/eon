@@ -1,0 +1,56 @@
+# Dependencies
+node_modules/
+.pnp
+.pnp.js
+.yarn/cache
+.yarn/unplugged
+.yarn/build-state.yml
+.yarn/install-state.gz
+
+# Next.js build outputs
+.next/
+out/
+build/
+
+# Production
+dist/
+
+# Testing
+coverage/
+*.lcov
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# OS / Editor files
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*.tmp
+*.temp
+
+# Env files (keep example if needed)
+.env
+.env*.local
+
+# TypeScript
+*.tsbuildinfo
+*.tscache
+
+# VSCode / JetBrains
+.vscode/
+.idea/
+*.iml
+
+# Optional cache
+.cache/
+.next/cache/
+
+# Misc
+*.log
+
