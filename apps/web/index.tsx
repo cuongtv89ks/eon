@@ -1,7 +1,11 @@
 import React from 'react';
+import { createRoot } from 'react-dom/client';
+import App from '../mobile/App';
 
-const HomePage = () => {
-  return <h1>Welcome to the Employee Onboarding System</h1>;
-};
-
-export default HomePage;
+const container = document.getElementById('root');
+const root = createRoot(container!);
+root.render(
+  <React.StrictMode>
+    <App />
+  </React.StrictMode>
+);

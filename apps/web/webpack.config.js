@@ -13,14 +13,14 @@ module.exports = {
   module: {
     rules: [
       {
-        test: /\.(ts|tsx)$/, // Apply ts-loader for TypeScript files
-        exclude: /node_modules/,
+        test: /\.(ts|tsx|js)$/,
+        exclude: /node_modules\/(?!react-native)/,
         use: {
-          loader: 'ts-loader',
+          loader: 'babel-loader',
           options: {
-            configFile: 'apps/web/tsconfig.app.json', // Path to your tsconfig.app.json
-          },
-        },
+            presets: ['@babel/preset-env', '@babel/preset-react', '@babel/preset-typescript', '@babel/preset-flow']
+          }
+        }
       },
       {
         test: /\.css$/,

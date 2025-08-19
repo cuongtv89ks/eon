@@ -491,7 +491,7 @@
       },
       {
         "file": "package.json",
-        "hash": "15835131642175201531"
+        "hash": "6306614221074939275"
       },
       {
         "file": "packages/config/index.ts",
@@ -507,7 +507,7 @@
       },
       {
         "file": "pnpm-lock.yaml",
-        "hash": "1161416469295485143"
+        "hash": "13084051061721979261"
       },
       {
         "file": "teams/team-all.txt",
@@ -554,8 +554,9 @@
         },
         {
           "file": "apps/mobile/App.tsx",
-          "hash": "16192891092219800552",
+          "hash": "6239341002012210984",
           "deps": [
+            "npm:react",
             "npm:react-native"
           ]
         },
@@ -715,7 +716,7 @@
         },
         {
           "file": "apps/mobile/ios/mobile.xcodeproj/project.pbxproj",
-          "hash": "17527797228301308668"
+          "hash": "8891418605984730732"
         },
         {
           "file": "apps/mobile/ios/mobile.xcodeproj/xcshareddata/xcschemes/mobile.xcscheme",
@@ -798,9 +799,11 @@
         },
         {
           "file": "apps/web/index.tsx",
-          "hash": "8243821298904574862",
+          "hash": "16531749489158628969",
           "deps": [
-            "npm:react"
+            "npm:react",
+            "npm:react-dom",
+            "mobile"
           ]
         },
         {
@@ -820,7 +823,7 @@
         },
         {
           "file": "apps/web/webpack.config.js",
-          "hash": "6498228982979797568",
+          "hash": "10371601212655855390",
           "deps": [
             "npm:html-webpack-plugin"
           ]

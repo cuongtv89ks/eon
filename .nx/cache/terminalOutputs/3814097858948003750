@@ -1,0 +1,30 @@
+[2J[3J[H8:48:31 PM - Starting compilation in watch mode...
+
+
+8:48:32 PM - Found 0 errors. Watching for file changes.
+[1m[31mDebugger listening on ws://localhost:9229/5cb2eb64-0ba4-40c8-8842-f71da2e7096a[39m[22m
+[1m[31mDebugger listening on ws://localhost:9229/5cb2eb64-0ba4-40c8-8842-f71da2e7096a[39m[22m
+[1m[31mFor help, see: https://nodejs.org/en/docs/inspector[39m[22m
+[1m[31m[39m[22m
+[32m[Nest] 19815  - [39m08/19/2025, 8:48:33 PM [32m    LOG[39m [38;5;3m[NestFactory] [39m[32mStarting Nest application...[39m
+[32m[Nest] 19815  - [39m08/19/2025, 8:48:33 PM [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mAppModule dependencies initialized[39m[38;5;3m +5ms[39m
+[32m[Nest] 19815  - [39m08/19/2025, 8:48:33 PM [32m    LOG[39m [38;5;3m[RoutesResolver] [39m[32mAppController {/auth}:[39m[38;5;3m +2ms[39m
+[32m[Nest] 19815  - [39m08/19/2025, 8:48:33 PM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/auth/register, POST} route[39m[38;5;3m +2ms[39m
+[32m[Nest] 19815  - [39m08/19/2025, 8:48:33 PM [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/auth/login, POST} route[39m[38;5;3m +0ms[39m
+[32m[Nest] 19815  - [39m08/19/2025, 8:48:33 PM [32m    LOG[39m [38;5;3m[NestApplication] [39m[32mNest application successfully started[39m[38;5;3m +1ms[39m
+Compiled with problems:
+×
+ERROR in ./apps/mobile/node_modules/react-native/index.js
+Module build failed (from ./node_modules/.pnpm/babel-loader@10.0.0_@babel+core@7.28.3_webpack@5.99.9/node_modules/babel-loader/lib/index.js):
+SyntaxError: /Users/cuongtv20/Downloads/eon/apps/mobile/node_modules/react-native/index.js: Unexpected keyword 'typeof'. (27:7)
+
+  25 | // ----------------------------------------------------------------------------
+  26 |
+> 27 | import typeof * as ReactNativePublicAPI from './index.js.flow';
+     |        ^
+  28 |
+  29 | const warnOnce = require('./Libraries/Utilities/warnOnce').default;
+  30 | const invariant = require('invariant');
+    at constructor (/Users/cuongtv20/Downloads/eon/node_modules/.pnpm/@babel+parser@7.28.3/node_modules/@babel/parser/lib/index.js:367:19)
+    at JSXParserMixin.raise (/Users/cuongtv20/Downloads/eon/node_modules/.pnpm/@babel+parser@7.28.3/node_modules/@babel/parser/lib/index.js:6630:19)
+    at JSXParserMixin.checkReservedWord (/Users/cuongtv20/Downloads/[1m[31mWatch error: Daemon closed the connection[39m[22m

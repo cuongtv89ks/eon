@@ -1,0 +1,134 @@
+<i> [1m[32m[webpack-dev-server] Project is running at:[39m[22m
+<i> [1m[32m[webpack-dev-server] Loopback: [36mhttp://localhost:4200/[39m, [36mhttp://[::1]:4200/[39m[39m[22m
+<i> [1m[32m[webpack-dev-server] 404s will fallback to '[36m/index.html[39m'[39m[22m
+
+[7m[1m[36m NX [39m[22m[27m [1mWeb Development Server is listening at http://localhost:4200/[22m
+
+assets by status 230 KiB [cached] 2 assets
+orphan modules 35.2 KiB [orphan] 5 modules
+runtime modules 991 bytes 5 modules
+modules by path ./node_modules/.pnpm/ 646 KiB 18 modules
+modules by path ./apps/ 20.1 KiB
+  modules by path ./apps/mobile/node_modules/react/ 18 KiB
+    modules by path ./apps/mobile/node_modules/react/*.js 396 bytes 2 modules
+    modules by path ./apps/mobile/node_modules/react/cjs/*.js 17.6 KiB 2 modules
+  ./apps/web/index.tsx + 1 modules 2.09 KiB [built] [code generated]
+  ./apps/mobile/node_modules/react-native/index.js 39 bytes [built] [code generated] [1 error]
+
+WARNING in configuration
+The 'mode' option has not been set, webpack will fallback to 'production' for this value.
+Set 'mode' option to 'development' or 'production' to enable defaults for each environment.
+You can also set it to 'none' to disable any default behavior. Learn more: https://webpack.js.org/configuration/mode/
+
+ERROR in ./apps/mobile/node_modules/react-native/index.js
+Module build failed (from ./node_modules/.pnpm/babel-loader@10.0.0_@babel+core@7.28.3_webpack@5.99.9/node_modules/babel-loader/lib/index.js):
+SyntaxError: /Users/cuongtv20/Downloads/eon/apps/mobile/node_modules/react-native/index.js: Unexpected keyword 'typeof'. (27:7)
+
+[0m [90m 25 |[39m [90m// ----------------------------------------------------------------------------[39m
+ [90m 26 |[39m
+[31m[1m>[22m[39m[90m 27 |[39m [36mimport[39m [36mtypeof[39m [33m*[39m [36mas[39m [33mReactNativePublicAPI[39m [36mfrom[39m [32m'./index.js.flow'[39m[33m;[39m
+ [90m    |[39m        [31m[1m^[22m[39m
+ [90m 28 |[39m
+ [90m 29 |[39m [36mconst[39m warnOnce [33m=[39m require([32m'./Libraries/Utilities/warnOnce'[39m)[33m.[39m[36mdefault[39m[33m;[39m
+ [90m 30 |[39m [36mconst[39m invariant [33m=[39m require([32m'invariant'[39m)[33m;[39m[0m
+    at constructor (/Users/cuongtv20/Downloads/eon/node_modules/.pnpm/@babel+parser@7.28.3/node_modules/@babel/parser/lib/index.js:367:19)
+    at JSXParserMixin.raise (/Users/cuongtv20/Downloads/eon/node_modules/.pnpm/@babel+parser@7.28.3/node_modules/@babel/parser/lib/index.js:6630:19)
+    at JSXParserMixin.checkReservedWord (/Users/cuongtv20/Downloads/eon/node_modules/.pnpm/@babel+parser@7.28.3/node_modules/@babel/parser/lib/index.js:12230:12)
+    at JSXParserMixin.parseIdentifierName (/Users/cuongtv20/Downloads/eon/node_modules/.pnpm/@babel+parser@7.28.3/node_modules/@babel/parser/lib/index.js:12217:12)
+    at JSXParserMixin.parseIdentifier (/Users/cuongtv20/Downloads/eon/node_modules/.pnpm/@babel+parser@7.28.3/node_modules/@babel/parser/lib/index.js:12187:23)
+    at JSXParserMixin.parseImportSpecifierLocal (/Users/cuongtv20/Downloads/eon/node_modules/.pnpm/@babel+parser@7.28.3/node_modules/@babel/parser/lib/index.js:14267:28)
+    at JSXParserMixin.maybeParseDefaultImportSpecifier (/Users/cuongtv20/Downloads/eon/node_modules/.pnpm/@babel+parser@7.28.3/node_modules/@babel/parser/lib/index.js:14375:12)
+    at JSXParserMixin.parseImportSpecifiersAndAfter (/Users/cuongtv20/Downloads/eon/node_modules/.pnpm/@babel+parser@7.28.3/node_modules/@babel/parser/lib/index.js:14244:29)
+    at JSXParserMixin.parseImport (/Users/cuongtv20/Downloads/eon/node_modules/.pnpm/@babel+parser@7.28.3/node_modules/@babel/parser/lib/index.js:14240:17)
+    at JSXParserMixin.parseStatementContent (/Users/cuongtv20/Downloads/eon/node_modules/.pnpm/@babel+parser@7.28.3/node_modules/@babel/parser/lib/index.js:12881:27)
+    at JSXParserMixin.parseStatementLike (/Users/cuongtv20/Downloads/eon/node_modules/.pnpm/@babel+parser@7.28.3/node_modules/@babel/parser/lib/index.js:12772:17)
+    at JSXParserMixin.parseModuleItem (/Users/cuongtv20/Downloads/eon/node_modules/.pnpm/@babel+parser@7.28.3/node_modules/@babel/parser/lib/index.js:12749:17)
+    at JSXParserMixin.parseBlockOrModuleBlockBody (/Users/cuongtv20/Downloads/eon/node_modules/.pnpm/@babel+parser@7.28.3/node_modules/@babel/parser/lib/index.js:13321:36)
+    at JSXParserMixin.parseBlockBody (/Users/cuongtv20/Downloads/eon/node_modules/.pnpm/@babel+parser@7.28.3/node_modules/@babel/parser/lib/index.js:13314:10)
+    at JSXParserMixin.parseProgram (/Users/cuongtv20/Downloads/eon/node_modules/.pnpm/@babel+parser@7.28.3/node_modules/@babel/parser/lib/index.js:12630:10)
+    at JSXParserMixin.parseTopLevel (/Users/cuongtv20/Downloads/eon/node_modules/.pnpm/@babel+parser@7.28.3/node_modules/@babel/parser/lib/index.js:12620:25)
+    at JSXParserMixin.parse (/Users/cuongtv20/Downloads/eon/node_modules/.pnpm/@babel+parser@7.28.3/node_modules/@babel/parser/lib/index.js:14497:10)
+    at parse (/Users/cuongtv20/Downloads/eon/node_modules/.pnpm/@babel+parser@7.28.3/node_modules/@babel/parser/lib/index.js:14531:38)
+    at parser (/Users/cuongtv20/Downloads/eon/node_modules/.pnpm/@babel+core@7.28.3/node_modules/@babel/core/lib/parser/index.js:41:34)
+    at parser.next (<anonymous>)
+    at normalizeFile (/Users/cuongtv20/Downloads/eon/node_modules/.pnpm/@babel+core@7.28.3/node_modules/@babel/core/lib/transformation/normalize-file.js:64:37)
+    at normalizeFile.next (<anonymous>)
+    at run (/Users/cuongtv20/Downloads/eon/node_modules/.pnpm/@babel+core@7.28.3/node_modules/@babel/core/lib/transformation/index.js:22:50)
+    at run.next (<anonymous>)
+    at transform (/Users/cuongtv20/Downloads/eon/node_modules/.pnpm/@babel+core@7.28.3/node_modules/@babel/core/lib/transform.js:22:33)
+    at transform.next (<anonymous>)
+    at step (/Users/cuongtv20/Downloads/eon/node_modules/.pnpm/gensync@1.0.0-beta.2/node_modules/gensync/index.js:261:32)
+    at /Users/cuongtv20/Downloads/eon/node_modules/.pnpm/gensync@1.0.0-beta.2/node_modules/gensync/index.js:273:13
+    at async.call.result.err.err (/Users/cuongtv20/Downloads/eon/node_modules/.pnpm/gensync@1.0.0-beta.2/node_modules/gensync/index.js:223:11)
+    at /Users/cuongtv20/Downloads/eon/node_modules/.pnpm/gensync@1.0.0-beta.2/node_modules/gensync/index.js:189:28
+    at /Users/cuongtv20/Downloads/eon/node_modules/.pnpm/@babel+core@7.28.3/node_modules/@babel/core/lib/gensync-utils/async.js:67:7
+    at /Users/cuongtv20/Downloads/eon/node_modules/.pnpm/gensync@1.0.0-beta.2/node_modules/gensync/index.js:113:33
+    at step (/Users/cuongtv20/Downloads/eon/node_modules/.pnpm/gensync@1.0.0-beta.2/node_modules/gensync/index.js:287:14)
+    at /Users/cuongtv20/Downloads/eon/node_modules/.pnpm/gensync@1.0.0-beta.2/node_modules/gensync/index.js:273:13
+    at async.call.result.err.err (/Users/cuongtv20/Downloads/eon/node_modules/.pnpm/gensync@1.0.0-beta.2/node_modules/gensync/index.js:223:11)
+ @ ./apps/mobile/App.tsx 9:0-98 18:17-29 18:74-78 18:121-125 18:177-186 18:288-297 18:422-438 18:501-505 20:13-30
+ @ ./apps/web/index.tsx 4:0-32 7:52-55
+
+webpack 5.99.9 compiled with 1 error and 1 warning in 3564 ms
+
+assets by status 230 KiB [cached] 2 assets
+orphan modules 35.2 KiB [orphan] 5 modules
+runtime modules 991 bytes 5 modules
+modules by path ./node_modules/.pnpm/ 646 KiB 18 modules
+modules by path ./apps/ 20.1 KiB
+  modules by path ./apps/mobile/node_modules/react/ 18 KiB
+    modules by path ./apps/mobile/node_modules/react/*.js 396 bytes 2 modules
+    modules by path ./apps/mobile/node_modules/react/cjs/*.js 17.6 KiB 2 modules
+  ./apps/web/index.tsx + 1 modules 2.09 KiB [built] [code generated]
+  ./apps/mobile/node_modules/react-native/index.js 39 bytes [built] [code generated] [1 error]
+
+WARNING in configuration
+The 'mode' option has not been set, webpack will fallback to 'production' for this value.
+Set 'mode' option to 'development' or 'production' to enable defaults for each environment.
+You can also set it to 'none' to disable any default behavior. Learn more: https://webpack.js.org/configuration/mode/
+
+ERROR in ./apps/mobile/node_modules/react-native/index.js
+Module build failed (from ./node_modules/.pnpm/babel-loader@10.0.0_@babel+core@7.28.3_webpack@5.99.9/node_modules/babel-loader/lib/index.js):
+SyntaxError: /Users/cuongtv20/Downloads/eon/apps/mobile/node_modules/react-native/index.js: Unexpected keyword 'typeof'. (27:7)
+
+[0m [90m 25 |[39m [90m// ----------------------------------------------------------------------------[39m
+ [90m 26 |[39m
+[31m[1m>[22m[39m[90m 27 |[39m [36mimport[39m [36mtypeof[39m [33m*[39m [36mas[39m [33mReactNativePublicAPI[39m [36mfrom[39m [32m'./index.js.flow'[39m[33m;[39m
+ [90m    |[39m        [31m[1m^[22m[39m
+ [90m 28 |[39m
+ [90m 29 |[39m [36mconst[39m warnOnce [33m=[39m require([32m'./Libraries/Utilities/warnOnce'[39m)[33m.[39m[36mdefault[39m[33m;[39m
+ [90m 30 |[39m [36mconst[39m invariant [33m=[39m require([32m'invariant'[39m)[33m;[39m[0m
+    at constructor (/Users/cuongtv20/Downloads/eon/node_modules/.pnpm/@babel+parser@7.28.3/node_modules/@babel/parser/lib/index.js:367:19)
+    at JSXParserMixin.raise (/Users/cuongtv20/Downloads/eon/node_modules/.pnpm/@babel+parser@7.28.3/node_modules/@babel/parser/lib/index.js:6630:19)
+    at JSXParserMixin.checkReservedWord (/Users/cuongtv20/Downloads/eon/node_modules/.pnpm/@babel+parser@7.28.3/node_modules/@babel/parser/lib/index.js:12230:12)
+    at JSXParserMixin.parseIdentifierName (/Users/cuongtv20/Downloads/eon/node_modules/.pnpm/@babel+parser@7.28.3/node_modules/@babel/parser/lib/index.js:12217:12)
+    at JSXParserMixin.parseIdentifier (/Users/cuongtv20/Downloads/eon/node_modules/.pnpm/@babel+parser@7.28.3/node_modules/@babel/parser/lib/index.js:12187:23)
+    at JSXParserMixin.parseImportSpecifierLocal (/Users/cuongtv20/Downloads/eon/node_modules/.pnpm/@babel+parser@7.28.3/node_modules/@babel/parser/lib/index.js:14267:28)
+    at JSXParserMixin.maybeParseDefaultImportSpecifier (/Users/cuongtv20/Downloads/eon/node_modules/.pnpm/@babel+parser@7.28.3/node_modules/@babel/parser/lib/index.js:14375:12)
+    at JSXParserMixin.parseImportSpecifiersAndAfter (/Users/cuongtv20/Downloads/eon/node_modules/.pnpm/@babel+parser@7.28.3/node_modules/@babel/parser/lib/index.js:14244:29)
+    at JSXParserMixin.parseImport (/Users/cuongtv20/Downloads/eon/node_modules/.pnpm/@babel+parser@7.28.3/node_modules/@babel/parser/lib/index.js:14240:17)
+    at JSXParserMixin.parseStatementContent (/Users/cuongtv20/Downloads/eon/node_modules/.pnpm/@babel+parser@7.28.3/node_modules/@babel/parser/lib/index.js:12881:27)
+    at JSXParserMixin.parseStatementLike (/Users/cuongtv20/Downloads/eon/node_modules/.pnpm/@babel+parser@7.28.3/node_modules/@babel/parser/lib/index.js:12772:17)
+    at JSXParserMixin.parseModuleItem (/Users/cuongtv20/Downloads/eon/node_modules/.pnpm/@babel+parser@7.28.3/node_modules/@babel/parser/lib/index.js:12749:17)
+    at JSXParserMixin.parseBlockOrModuleBlockBody (/Users/cuongtv20/Downloads/eon/node_modules/.pnpm/@babel+parser@7.28.3/node_modules/@babel/parser/lib/index.js:13321:36)
+    at JSXParserMixin.parseBlockBody (/Users/cuongtv20/Downloads/eon/node_modules/.pnpm/@babel+parser@7.28.3/node_modules/@babel/parser/lib/index.js:13314:10)
+    at JSXParserMixin.parseProgram (/Users/cuongtv20/Downloads/eon/node_modules/.pnpm/@babel+parser@7.28.3/node_modules/@babel/parser/lib/index.js:12630:10)
+    at JSXParserMixin.parseTopLevel (/Users/cuongtv20/Downloads/eon/node_modules/.pnpm/@babel+parser@7.28.3/node_modules/@babel/parser/lib/index.js:12620:25)
+    at JSXParserMixin.parse (/Users/cuongtv20/Downloads/eon/node_modules/.pnpm/@babel+parser@7.28.3/node_modules/@babel/parser/lib/index.js:14497:10)
+    at parse (/Users/cuongtv20/Downloads/eon/node_modules/.pnpm/@babel+parser@7.28.3/node_modules/@babel/parser/lib/index.js:14531:38)
+    at parser (/Users/cuongtv20/Downloads/eon/node_modules/.pnpm/@babel+core@7.28.3/node_modules/@babel/core/lib/parser/index.js:41:34)
+    at parser.next (<anonymous>)
+    at normalizeFile (/Users/cuongtv20/Downloads/eon/node_modules/.pnpm/@babel+core@7.28.3/node_modules/@babel/core/lib/transformation/normalize-file.js:64:37)
+    at normalizeFile.next (<anonymous>)
+    at run (/Users/cuongtv20/Downloads/eon/node_modules/.pnpm/@babel+core@7.28.3/node_modules/@babel/core/lib/transformation/index.js:22:50)
+    at run.next (<anonymous>)
+    at transform (/Users/cuongtv20/Downloads/eon/node_modules/.pnpm/@babel+core@7.28.3/node_modules/@babel/core/lib/transform.js:22:33)
+    at transform.next (<anonymous>)
+    at step (/Users/cuongtv20/Downloads/eon/node_modules/.pnpm/gensync@1.0.0-beta.2/node_modules/gensync/index.js:261:32)
+    at /Users/cuongtv20/Downloads/eon/node_modules/.pnpm/gensync@1.0.0-beta.2/node_modules/gensync/index.js:273:13
+    at async.call.result.err.err (/Users/cuongtv20/Downloads/eon/node_modules/.pnpm/gensync@1.0.0-beta.2/node_modules/gensync/index.js:223:11)
+ @ ./apps/mobile/App.tsx 9:0-98 18:17-29 18:74-78 18:121-125 18:177-186 18:288-297 18:422-438 18:501-505 20:13-30
+ @ ./apps/web/index.tsx 4:0-32 7:52-55
+
+webpack 5.99.9 compiled with 1 error and 1 warning in 2947 ms
+^C<i> [1m[32m[webpack-dev-server] Gracefully shutting down. To force exit, press ^C again. Please wait...[39m[22m

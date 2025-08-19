@@ -1055,6 +1055,15 @@
         "hash": "sha512-D6Eujc2zMxKjfa4Zxl4GHMsmhKKZ9VpcqIchJLvwTxad9zWIYulwYItBovpDOoNLISpcZSXoDJ5gaGbQUDqViA=="
       }
     },
+    "npm:@babel/plugin-transform-react-jsx-development": {
+      "type": "npm",
+      "name": "npm:@babel/plugin-transform-react-jsx-development",
+      "data": {
+        "version": "7.27.1",
+        "packageName": "@babel/plugin-transform-react-jsx-development",
+        "hash": "sha512-ykDdF5yI4f1WrAolLqeF3hmYU12j9ntLQl/AOG1HAS21jxyg1Q0/J/tpREuYLfatGdGmXp/3yS0ZA76kOlVq9Q=="
+      }
+    },
     "npm:@babel/plugin-transform-react-jsx-self": {
       "type": "npm",
       "name": "npm:@babel/plugin-transform-react-jsx-self",
@@ -1080,6 +1089,15 @@
         "version": "7.27.1",
         "packageName": "@babel/plugin-transform-react-jsx",
         "hash": "sha512-2KH4LWGSrJIkVf5tSiBFYuXDAoWRq2MMwgivCf+93dd0GQi8RXLjKA/0EvRnVV5G0hrHczsquXuD01L8s6dmBw=="
+      }
+    },
+    "npm:@babel/plugin-transform-react-pure-annotations": {
+      "type": "npm",
+      "name": "npm:@babel/plugin-transform-react-pure-annotations",
+      "data": {
+        "version": "7.27.1",
+        "packageName": "@babel/plugin-transform-react-pure-annotations",
+        "hash": "sha512-JfuinvDOsD9FVMTHpzA/pBLisxpv1aSf+OIV8lgH3MuWrks19R27e6a6DipIg4aX1Zm9Wpb04p8wljfKrVSnPA=="
       }
     },
     "npm:@babel/plugin-transform-regenerator": {
@@ -1217,6 +1235,15 @@
         "hash": "sha512-ROiDcM+GbYVPYBOeCR6uBXKkQpBExLl8k9HO1ygXEyds39j+vCCsjmj7S8GOniZQlEs81QlkdJZe76IpLSiqpg=="
       }
     },
+    "npm:@babel/preset-flow": {
+      "type": "npm",
+      "name": "npm:@babel/preset-flow",
+      "data": {
+        "version": "7.27.1",
+        "packageName": "@babel/preset-flow",
+        "hash": "sha512-ez3a2it5Fn6P54W8QkbfIyyIbxlXvcxyWHHvno1Wg0Ej5eiJY5hBb8ExttoIOJJk7V2dZE6prP7iby5q2aQ0Lg=="
+      }
+    },
     "npm:@babel/preset-modules": {
       "type": "npm",
       "name": "npm:@babel/preset-modules",
@@ -1224,6 +1251,15 @@
         "version": "0.1.6-no-external-plugins",
         "packageName": "@babel/preset-modules",
         "hash": "sha512-HrcgcIESLm9aIR842yhJ5RWan/gebQUJ6E/E5+rf0y9o6oj7w0Br+sWuL6kEQ/o/AdfvR1Je9jG18/gnpwjEyA=="
+      }
+    },
+    "npm:@babel/preset-react": {
+      "type": "npm",
+      "name": "npm:@babel/preset-react",
+      "data": {
+        "version": "7.27.1",
+        "packageName": "@babel/preset-react",
+        "hash": "sha512-oJHWh2gLhU9dW9HHr42q0cI0/iHHXTLGe39qvpAZZzagHy0MzYLCnCVV0symeRvzmjHyVU7mw2K06E6u/JwbhA=="
       }
     },
     "npm:@babel/preset-typescript": {
@@ -3183,6 +3219,15 @@
       "type": "npm",
       "name": "npm:babel-loader",
       "data": {
+        "version": "10.0.0",
+        "packageName": "babel-loader",
+        "hash": "sha512-z8jt+EdS61AMw22nSfoNJAZ0vrtmhPRVi6ghL3rCeRZI8cdNYFiV5xeV3HbE7rlZZNmGH8BVccwWt8/ED0QOHA=="
+      }
+    },
+    "npm:babel-loader@9.2.1": {
+      "type": "npm",
+      "name": "npm:babel-loader@9.2.1",
+      "data": {
         "version": "9.2.1",
         "packageName": "babel-loader",
         "hash": "sha512-fqe8naHt46e0yIdkjUZYqddSXfej3AHajX+CSO5X7oy0EmPc6o5Xh+RClNoHjnieWz9AW4kZxW9yyFMhVB1QLA=="
@@ -4542,9 +4587,9 @@
       "type": "npm",
       "name": "npm:electron-to-chromium",
       "data": {
-        "version": "1.5.205",
+        "version": "1.5.206",
         "packageName": "electron-to-chromium",
-        "hash": "sha512-gBtbT7IgOHu7CwdtIiXwbNRD1l6oG6GAyanmwMCLVqaoGy92Jfe1dSHLiSj8xUEZNxOTIVlXuaAalMMD+S4y0w=="
+        "hash": "sha512-/eucXSTaI8L78l42xPurxdBzPTjAkMVCQO7unZCWk9LnZiwKcSvQUhF4c99NWQLwMQXxjlfoQy0+8m9U2yEDQQ=="
       }
     },
     "npm:emoji-regex": {
@@ -9987,12 +10032,12 @@
     "mobile": [
       {
         "source": "mobile",
-        "target": "npm:react-native",
+        "target": "npm:react",
         "type": "static"
       },
       {
         "source": "mobile",
-        "target": "npm:react",
+        "target": "npm:react-native",
         "type": "static"
       },
       {
@@ -10050,6 +10095,16 @@
       {
         "source": "web",
         "target": "npm:react",
+        "type": "static"
+      },
+      {
+        "source": "web",
+        "target": "npm:react-dom",
+        "type": "static"
+      },
+      {
+        "source": "web",
+        "target": "mobile",
         "type": "static"
       },
       {
@@ -11540,6 +11595,18 @@
         "type": "static"
       }
     ],
+    "npm:@babel/plugin-transform-react-jsx-development": [
+      {
+        "source": "npm:@babel/plugin-transform-react-jsx-development",
+        "target": "npm:@babel/core",
+        "type": "static"
+      },
+      {
+        "source": "npm:@babel/plugin-transform-react-jsx-development",
+        "target": "npm:@babel/plugin-transform-react-jsx",
+        "type": "static"
+      }
+    ],
     "npm:@babel/plugin-transform-react-jsx-self": [
       {
         "source": "npm:@babel/plugin-transform-react-jsx-self",
@@ -11593,6 +11660,23 @@
       {
         "source": "npm:@babel/plugin-transform-react-jsx",
         "target": "npm:@babel/types",
+        "type": "static"
+      }
+    ],
+    "npm:@babel/plugin-transform-react-pure-annotations": [
+      {
+        "source": "npm:@babel/plugin-transform-react-pure-annotations",
+        "target": "npm:@babel/core",
+        "type": "static"
+      },
+      {
+        "source": "npm:@babel/plugin-transform-react-pure-annotations",
+        "target": "npm:@babel/helper-annotate-as-pure",
+        "type": "static"
+      },
+      {
+        "source": "npm:@babel/plugin-transform-react-pure-annotations",
+        "target": "npm:@babel/helper-plugin-utils",
         "type": "static"
       }
     ],
@@ -12191,6 +12275,28 @@
         "type": "static"
       }
     ],
+    "npm:@babel/preset-flow": [
+      {
+        "source": "npm:@babel/preset-flow",
+        "target": "npm:@babel/core",
+        "type": "static"
+      },
+      {
+        "source": "npm:@babel/preset-flow",
+        "target": "npm:@babel/helper-plugin-utils",
+        "type": "static"
+      },
+      {
+        "source": "npm:@babel/preset-flow",
+        "target": "npm:@babel/helper-validator-option",
+        "type": "static"
+      },
+      {
+        "source": "npm:@babel/preset-flow",
+        "target": "npm:@babel/plugin-transform-flow-strip-types",
+        "type": "static"
+      }
+    ],
     "npm:@babel/preset-modules": [
       {
         "source": "npm:@babel/preset-modules",
@@ -12210,6 +12316,43 @@
       {
         "source": "npm:@babel/preset-modules",
         "target": "npm:esutils",
+        "type": "static"
+      }
+    ],
+    "npm:@babel/preset-react": [
+      {
+        "source": "npm:@babel/preset-react",
+        "target": "npm:@babel/core",
+        "type": "static"
+      },
+      {
+        "source": "npm:@babel/preset-react",
+        "target": "npm:@babel/helper-plugin-utils",
+        "type": "static"
+      },
+      {
+        "source": "npm:@babel/preset-react",
+        "target": "npm:@babel/helper-validator-option",
+        "type": "static"
+      },
+      {
+        "source": "npm:@babel/preset-react",
+        "target": "npm:@babel/plugin-transform-react-display-name",
+        "type": "static"
+      },
+      {
+        "source": "npm:@babel/preset-react",
+        "target": "npm:@babel/plugin-transform-react-jsx",
+        "type": "static"
+      },
+      {
+        "source": "npm:@babel/preset-react",
+        "target": "npm:@babel/plugin-transform-react-jsx-development",
+        "type": "static"
+      },
+      {
+        "source": "npm:@babel/preset-react",
+        "target": "npm:@babel/plugin-transform-react-pure-annotations",
         "type": "static"
       }
     ],
@@ -13101,7 +13244,7 @@
       },
       {
         "source": "npm:@nx/webpack",
-        "target": "npm:babel-loader",
+        "target": "npm:babel-loader@9.2.1",
         "type": "static"
       },
       {
@@ -15064,16 +15207,33 @@
       },
       {
         "source": "npm:babel-loader",
+        "target": "npm:find-up@5.0.0",
+        "type": "static"
+      },
+      {
+        "source": "npm:babel-loader",
+        "target": "npm:webpack",
+        "type": "static"
+      }
+    ],
+    "npm:babel-loader@9.2.1": [
+      {
+        "source": "npm:babel-loader@9.2.1",
+        "target": "npm:@babel/core",
+        "type": "static"
+      },
+      {
+        "source": "npm:babel-loader@9.2.1",
         "target": "npm:find-cache-dir",
         "type": "static"
       },
       {
-        "source": "npm:babel-loader",
+        "source": "npm:babel-loader@9.2.1",
         "target": "npm:schema-utils@4.3.2",
         "type": "static"
       },
       {
-        "source": "npm:babel-loader",
+        "source": "npm:babel-loader@9.2.1",
         "target": "npm:webpack",
         "type": "static"
       }
@@ -22964,5 +23124,5 @@
   },
   "version": "6.0",
   "errors": [],
-  "computedAt": 1755582409303
+  "computedAt": 1755604347257
 }
