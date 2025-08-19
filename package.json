@@ -4,16 +4,21 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "dev": "pnpm exec nx run-many --target=serve --all",
-    "dev:web": "pnpm exec nx serve web",
-    "dev:auth-service": "pnpm exec nx serve auth-service",
-    "dev:mobile": "pnpm exec nx run-mobile",
-    "test": "pnpm exec nx run-many --target=test --all",
-    "test:web": "pnpm exec nx test web",
-    "build": "pnpm exec nx run-many --target=build --all"
+    "dev": "node ./node_modules/nx/bin/nx.js run-many --target=serve --all",
+    "dev:web": "node ./node_modules/nx/bin/nx.js serve web",
+    "dev:auth-service": "node ./node_modules/nx/bin/nx.js serve auth-service",
+    "dev:mobile": "node ./node_modules/nx/bin/nx.js run-mobile",
+    "test": "node ./node_modules/nx/bin/nx.js run-many --target=test --all",
+    "test:web": "node ./node_modules/nx/bin/nx.js test web",
+    "build": "node ./node_modules/nx/bin/nx.js run-many --target=build --all"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "packageManager": "pnpm@10.12.4"
+  "packageManager": "pnpm@10.12.4",
+  "devDependencies": {
+    "nx": "^19.5.3",
+    "@nrwl/tao": "19.8.14",
+    "typescript": "^5.5.4"
+  }
 }
